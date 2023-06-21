@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "embrtrees:block/mahogany-slab"
+    },
+    "type=double": {
+      "model": "embrtrees:block/mahogany-planks"
+    },
+    "type=top": {
+      "model": "embrtrees:block/mahogany-slab_top"
+    }
+  }
+}

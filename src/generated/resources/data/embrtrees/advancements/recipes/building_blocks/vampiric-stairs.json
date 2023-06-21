@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "embrtrees:vampiric-stairs"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_vampiric_planks": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "embrtrees:vampiric-planks"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_vampiric_planks",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "embrtrees:vampiric-stairs"
+    ]
+  },
+  "sends_telemetry_event": false
+}

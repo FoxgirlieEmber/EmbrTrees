@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "embrtrees:block/oceanic-slab"
+    },
+    "type=double": {
+      "model": "embrtrees:block/oceanic-planks"
+    },
+    "type=top": {
+      "model": "embrtrees:block/oceanic-slab_top"
+    }
+  }
+}

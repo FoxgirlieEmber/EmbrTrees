@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "embrtrees:blackwood-log",
+    "embrtrees:blackwood-wood",
+    "embrtrees:stripped-blackwood-log",
+    "embrtrees:stripped-blackwood-wood"
+  ]
+}

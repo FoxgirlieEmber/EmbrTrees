@@ -1,0 +1,8 @@
+{
+  "render_type": "translucent",
+  "variants": {
+    "": {
+      "model": "embrtrees:block/ghostwood-planks"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "embrtrees:block/blackwood-pressure-plate"
+    },
+    "powered=true": {
+      "model": "embrtrees:block/blackwood-pressure-plate_down"
+    }
+  }
+}

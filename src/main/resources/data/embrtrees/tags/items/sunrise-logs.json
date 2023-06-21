@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "embrtrees:sunrise-log",
+    "embrtrees:sunrise-wood",
+    "embrtrees:stripped-sunrise-log",
+    "embrtrees:stripped-sunrise-wood"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "embrtrees:ash-fence",
+    "embrtrees:astral-fence",
+    "embrtrees:blossom-fence",
+    "embrtrees:void-blossom-fence",
+    "embrtrees:ghostwood-fence",
+    "embrtrees:mahogany-fence",
+    "embrtrees:oceanic-fence",
+    "embrtrees:quartzwood-fence",
+    "embrtrees:vampiric-fence",
+    "embrtrees:willow-fence",
+    "embrtrees:blackwood-fence",
+    "embrtrees:walnut-fence",
+    "embrtrees:heartwood-fence",
+    "embrtrees:sunrise-fence",
+    "embrtrees:error-fence",
+    "embrtrees:cyan-fence"
+  ]
+}

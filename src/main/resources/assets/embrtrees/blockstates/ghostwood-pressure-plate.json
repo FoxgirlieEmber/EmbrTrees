@@ -1,0 +1,11 @@
+{
+  "render_type": "translucent",
+  "variants": {
+    "powered=false": {
+      "model": "embrtrees:block/ghostwood-pressure-plate"
+    },
+    "powered=true": {
+      "model": "embrtrees:block/ghostwood-pressure-plate_down"
+    }
+  }
+}

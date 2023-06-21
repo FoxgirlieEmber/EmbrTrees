@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_astral_log": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "embrtrees:stripped-astral-log"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "embrtrees:stripped-astral-wood"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_astral_log",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "embrtrees:stripped-astral-wood"
+    ]
+  },
+  "sends_telemetry_event": false
+}

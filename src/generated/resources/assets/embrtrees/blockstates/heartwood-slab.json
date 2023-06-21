@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "embrtrees:block/heartwood-slab"
+    },
+    "type=double": {
+      "model": "embrtrees:block/heartwood-planks"
+    },
+    "type=top": {
+      "model": "embrtrees:block/heartwood-slab_top"
+    }
+  }
+}

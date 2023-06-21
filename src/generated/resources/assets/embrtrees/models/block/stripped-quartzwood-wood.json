@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "embrtrees:block/quartzwood-stripped-log",
+    "side": "embrtrees:block/quartzwood-stripped-log"
+  }
+}

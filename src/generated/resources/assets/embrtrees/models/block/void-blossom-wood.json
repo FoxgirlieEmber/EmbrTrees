@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "embrtrees:block/void-blossom-log",
+    "side": "embrtrees:block/void-blossom-log"
+  }
+}

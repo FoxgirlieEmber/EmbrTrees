@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "embrtrees:block/sunrise-slab"
+    },
+    "type=double": {
+      "model": "embrtrees:block/sunrise-planks"
+    },
+    "type=top": {
+      "model": "embrtrees:block/sunrise-slab_top"
+    }
+  }
+}

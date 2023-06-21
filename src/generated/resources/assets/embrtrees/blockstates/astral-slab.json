@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "embrtrees:block/astral-slab"
+    },
+    "type=double": {
+      "model": "embrtrees:block/astral-planks"
+    },
+    "type=top": {
+      "model": "embrtrees:block/astral-slab_top"
+    }
+  }
+}

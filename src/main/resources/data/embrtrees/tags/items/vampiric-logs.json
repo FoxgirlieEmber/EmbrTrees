@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "embrtrees:vampiric-log",
+    "embrtrees:vampiric-wood",
+    "embrtrees:stripped-vampiric-log",
+    "embrtrees:stripped-vampiric-wood"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "embrtrees:block/cyan-slab"
+    },
+    "type=double": {
+      "model": "embrtrees:block/cyan-planks"
+    },
+    "type=top": {
+      "model": "embrtrees:block/cyan-slab_top"
+    }
+  }
+}

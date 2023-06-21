@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "embrtrees:block/error-log",
+    "side": "embrtrees:block/error-log"
+  }
+}

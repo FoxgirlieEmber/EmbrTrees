@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "O": {
+      "item": "minecraft:chest"
+    },
+    "X": {
+      "item": "embrtrees:heartwood-boat"
+    }
+  },
+  "pattern": [
+    "O",
+    "X"
+  ],
+  "result": {
+    "item": "embrtrees:heartwood-chest-boat"
+  },
+  "show_notification": true
+}

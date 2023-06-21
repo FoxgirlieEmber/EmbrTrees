@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "embrtrees:block/sunrise-pressure-plate"
+    },
+    "powered=true": {
+      "model": "embrtrees:block/sunrise-pressure-plate_down"
+    }
+  }
+}

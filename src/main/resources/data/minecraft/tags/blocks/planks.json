@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "embrtrees:ash-planks",
+    "embrtrees:astral-planks",
+    "embrtrees:blossom-planks",
+    "embrtrees:void-blossom-planks",
+    "embrtrees:ghostwood-planks",
+    "embrtrees:mahogany-planks",
+    "embrtrees:oceanic-planks",
+    "embrtrees:quartzwood-planks",
+    "embrtrees:vampiric-planks",
+    "embrtrees:willow-planks",
+    "embrtrees:blackwood-planks",
+    "embrtrees:walnut-planks",
+    "embrtrees:heartwood-planks",
+    "embrtrees:sunrise-planks",
+    "embrtrees:error-planks",
+    "embrtrees:cyan-planks"
+  ]
+}

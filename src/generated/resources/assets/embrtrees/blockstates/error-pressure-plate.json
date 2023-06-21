@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "embrtrees:block/error-pressure-plate"
+    },
+    "powered=true": {
+      "model": "embrtrees:block/error-pressure-plate_down"
+    }
+  }
+}

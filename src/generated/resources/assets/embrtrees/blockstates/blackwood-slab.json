@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "embrtrees:block/blackwood-slab"
+    },
+    "type=double": {
+      "model": "embrtrees:block/blackwood-planks"
+    },
+    "type=top": {
+      "model": "embrtrees:block/blackwood-slab_top"
+    }
+  }
+}

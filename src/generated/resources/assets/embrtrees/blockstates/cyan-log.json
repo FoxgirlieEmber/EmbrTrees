@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "embrtrees:block/cyan-log_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "embrtrees:block/cyan-log"
+    },
+    "axis=z": {
+      "model": "embrtrees:block/cyan-log_horizontal",
+      "x": 90
+    }
+  }
+}

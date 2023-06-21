@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "embrtrees:block/ash-slab"
+    },
+    "type=double": {
+      "model": "embrtrees:block/ash-planks"
+    },
+    "type=top": {
+      "model": "embrtrees:block/ash-slab_top"
+    }
+  }
+}

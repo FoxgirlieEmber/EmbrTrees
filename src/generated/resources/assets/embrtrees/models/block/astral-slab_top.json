@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "embrtrees:block/astral-planks",
+    "side": "embrtrees:block/astral-planks",
+    "top": "embrtrees:block/astral-planks"
+  }
+}

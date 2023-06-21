@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "O": {
+      "item": "minecraft:stick"
+    },
+    "X": {
+      "item": "embrtrees:blackwood-planks"
+    }
+  },
+  "pattern": [
+    "OXO",
+    "OXO"
+  ],
+  "result": {
+    "item": "embrtrees:blackwood-fence-gate"
+  },
+  "show_notification": true
+}

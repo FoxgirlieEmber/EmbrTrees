@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "embrtrees:oceanic-log",
+    "embrtrees:oceanic-wood",
+    "embrtrees:stripped-oceanic-log",
+    "embrtrees:stripped-oceanic-wood"
+  ]
+}

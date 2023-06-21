@@ -1,0 +1,9 @@
+{
+  "render_type": "translucent",
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "embrtrees:block/ghostwood-planks",
+    "side": "embrtrees:block/ghostwood-planks",
+    "top": "embrtrees:block/ghostwood-planks"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "embrtrees:block/oceanic-stripped-log-top",
+    "side": "embrtrees:block/oceanic-stripped-log"
+  }
+}

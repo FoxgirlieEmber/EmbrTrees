@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "embrtrees:block/vampiric-planks",
+    "side": "embrtrees:block/vampiric-planks",
+    "top": "embrtrees:block/vampiric-planks"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "embrtrees:block/ash-planks",
+    "side": "embrtrees:block/ash-planks",
+    "top": "embrtrees:block/ash-planks"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "embrtrees:block/quartzwood-wood_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "embrtrees:block/quartzwood-wood"
+    },
+    "axis=z": {
+      "model": "embrtrees:block/quartzwood-wood_horizontal",
+      "x": 90
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "O": {
+      "item": "minecraft:stick"
+    },
+    "X": {
+      "item": "embrtrees:willow-planks"
+    }
+  },
+  "pattern": [
+    "OXO",
+    "OXO"
+  ],
+  "result": {
+    "item": "embrtrees:willow-fence-gate"
+  },
+  "show_notification": true
+}

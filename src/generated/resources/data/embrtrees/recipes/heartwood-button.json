@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "redstone",
+  "ingredients": [
+    {
+      "item": "embrtrees:heartwood-planks"
+    }
+  ],
+  "result": {
+    "item": "embrtrees:heartwood-button"
+  }
+}

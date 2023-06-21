@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "embrtrees:block/oceanic-pressure-plate"
+    },
+    "powered=true": {
+      "model": "embrtrees:block/oceanic-pressure-plate_down"
+    }
+  }
+}

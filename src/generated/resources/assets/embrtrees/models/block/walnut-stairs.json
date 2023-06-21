@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "embrtrees:block/walnut-planks",
+    "side": "embrtrees:block/walnut-planks",
+    "top": "embrtrees:block/walnut-planks"
+  }
+}

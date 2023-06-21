@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "embrtrees:ash-leaves",
+    "embrtrees:astral-leaves",
+    "embrtrees:blossom-leaves",
+    "embrtrees:void-blossom-leaves",
+    "embrtrees:ghostwood-leaves",
+    "embrtrees:mahogany-leaves",
+    "embrtrees:oceanic-leaves",
+    "embrtrees:quartzwood-leaves",
+    "embrtrees:vampiric-leaves",
+    "embrtrees:willow-leaves",
+    "embrtrees:blackwood-leaves",
+    "embrtrees:walnut-leaves",
+    "embrtrees:heartwood-leaves",
+    "embrtrees:sunrise-leaves",
+    "embrtrees:error-leaves",
+    "embrtrees:cyan-leaves"
+  ]
+}

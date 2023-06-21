@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "redstone",
+  "ingredients": [
+    {
+      "item": "embrtrees:sunrise-planks"
+    }
+  ],
+  "result": {
+    "item": "embrtrees:sunrise-button"
+  }
+}

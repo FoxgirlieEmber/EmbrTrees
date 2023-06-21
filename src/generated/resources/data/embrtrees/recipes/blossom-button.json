@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "redstone",
+  "ingredients": [
+    {
+      "item": "embrtrees:blossom-planks"
+    }
+  ],
+  "result": {
+    "item": "embrtrees:blossom-button"
+  }
+}

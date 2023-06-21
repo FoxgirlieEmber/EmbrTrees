@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "embrtrees:ash-log",
+    "embrtrees:ash-wood",
+    "embrtrees:stripped-ash-log",
+    "embrtrees:stripped-ash-wood"
+  ]
+}

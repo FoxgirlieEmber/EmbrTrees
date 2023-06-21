@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/door_top_left_open",
+  "render_type": "minecraft:cutout",
+  "textures": {
+    "bottom": "embrtrees:block/walnut-door-lower",
+    "top": "embrtrees:block/walnut-door-upper"
+  }
+}

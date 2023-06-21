@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "embrtrees:willow-log",
+    "embrtrees:willow-wood",
+    "embrtrees:stripped-willow-log",
+    "embrtrees:stripped-willow-wood"
+  ]
+}

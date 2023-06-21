@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "embrtrees:block/void-blossom-pressure-plate"
+    },
+    "powered=true": {
+      "model": "embrtrees:block/void-blossom-pressure-plate_down"
+    }
+  }
+}

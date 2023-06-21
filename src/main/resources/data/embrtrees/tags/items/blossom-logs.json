@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "embrtrees:blossom-log",
+    "embrtrees:blossom-wood",
+    "embrtrees:stripped-blossom-log",
+    "embrtrees:stripped-blossom-wood"
+  ]
+}

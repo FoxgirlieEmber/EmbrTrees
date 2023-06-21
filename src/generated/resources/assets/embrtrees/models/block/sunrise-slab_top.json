@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "embrtrees:block/sunrise-planks",
+    "side": "embrtrees:block/sunrise-planks",
+    "top": "embrtrees:block/sunrise-planks"
+  }
+}

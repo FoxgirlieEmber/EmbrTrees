@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "embrtrees:block/quartzwood-slab"
+    },
+    "type=double": {
+      "model": "embrtrees:block/quartzwood-planks"
+    },
+    "type=top": {
+      "model": "embrtrees:block/quartzwood-slab_top"
+    }
+  }
+}

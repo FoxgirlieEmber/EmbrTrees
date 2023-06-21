@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "embrtrees:block/vampiric-slab"
+    },
+    "type=double": {
+      "model": "embrtrees:block/vampiric-planks"
+    },
+    "type=top": {
+      "model": "embrtrees:block/vampiric-slab_top"
+    }
+  }
+}

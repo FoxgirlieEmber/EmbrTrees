@@ -1,0 +1,14 @@
+{
+  "render_type": "translucent",
+  "variants": {
+    "type=bottom": {
+      "model": "embrtrees:block/ghostwood-slab"
+    },
+    "type=double": {
+      "model": "embrtrees:block/ghostwood-planks"
+    },
+    "type=top": {
+      "model": "embrtrees:block/ghostwood-slab_top"
+    }
+  }
+}

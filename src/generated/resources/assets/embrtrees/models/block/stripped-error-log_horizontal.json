@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column_horizontal",
+  "textures": {
+    "end": "embrtrees:block/error-stripped-log-top",
+    "side": "embrtrees:block/error-stripped-log"
+  }
+}

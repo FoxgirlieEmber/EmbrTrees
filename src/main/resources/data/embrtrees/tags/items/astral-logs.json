@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "embrtrees:astral-log",
+    "embrtrees:astral-wood",
+    "embrtrees:stripped-astral-log",
+    "embrtrees:stripped-astral-wood"
+  ]
+}

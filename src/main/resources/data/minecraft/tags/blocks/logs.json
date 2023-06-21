@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "#embrtrees:ash-logs",
+    "#embrtrees:astral-logs",
+    "#embrtrees:blossom-logs",
+    "#embrtrees:void-blossom-logs",
+    "#embrtrees:ghostwood-logs",
+    "#embrtrees:mahogany-logs",
+    "#embrtrees:oceanic-logs",
+    "#embrtrees:oceanic-logs",
+    "#embrtrees:vampiric-logs",
+    "#embrtrees:willow-logs",
+    "#embrtrees:blackwood-logs",
+    "#embrtrees:walnut-logs",
+    "#embrtrees:heartwood-logs",
+    "#embrtrees:sunrise-logs",
+    "#embrtrees:error-logs",
+    "#embrtrees:cyan-logs"
+  ]
+}

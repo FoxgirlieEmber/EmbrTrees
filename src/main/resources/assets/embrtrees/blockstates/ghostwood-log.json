@@ -1,0 +1,17 @@
+{
+  "render_type": "translucent",
+  "variants": {
+    "axis=x": {
+      "model": "embrtrees:block/ghostwood-log_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "embrtrees:block/ghostwood-log"
+    },
+    "axis=z": {
+      "model": "embrtrees:block/ghostwood-log_horizontal",
+      "x": 90
+    }
+  }
+}

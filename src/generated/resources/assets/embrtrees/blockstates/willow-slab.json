@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "embrtrees:block/willow-slab"
+    },
+    "type=double": {
+      "model": "embrtrees:block/willow-planks"
+    },
+    "type=top": {
+      "model": "embrtrees:block/willow-slab_top"
+    }
+  }
+}

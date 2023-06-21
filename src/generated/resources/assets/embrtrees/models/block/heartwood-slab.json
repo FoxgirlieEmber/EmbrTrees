@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "embrtrees:block/heartwood-planks",
+    "side": "embrtrees:block/heartwood-planks",
+    "top": "embrtrees:block/heartwood-planks"
+  }
+}

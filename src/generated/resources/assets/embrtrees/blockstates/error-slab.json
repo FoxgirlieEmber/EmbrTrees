@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "embrtrees:block/error-slab"
+    },
+    "type=double": {
+      "model": "embrtrees:block/error-planks"
+    },
+    "type=top": {
+      "model": "embrtrees:block/error-slab_top"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "embrtrees:block/quartzwood-planks",
+    "side": "embrtrees:block/quartzwood-planks",
+    "top": "embrtrees:block/quartzwood-planks"
+  }
+}

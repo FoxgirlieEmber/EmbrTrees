@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "embrtrees:block/mahogany-planks",
+    "side": "embrtrees:block/mahogany-planks",
+    "top": "embrtrees:block/mahogany-planks"
+  }
+}

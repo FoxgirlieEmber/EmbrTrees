@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "embrtrees:block/quartzwood-pressure-plate"
+    },
+    "powered=true": {
+      "model": "embrtrees:block/quartzwood-pressure-plate_down"
+    }
+  }
+}

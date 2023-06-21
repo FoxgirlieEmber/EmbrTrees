@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "embrtrees:void-blossom-log",
+    "embrtrees:void-blossom-wood",
+    "embrtrees:stripped-void-blossom-log",
+    "embrtrees:stripped-void-blossom-wood"
+  ]
+}

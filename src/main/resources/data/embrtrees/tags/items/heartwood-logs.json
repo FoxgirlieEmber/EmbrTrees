@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "embrtrees:heartwood-log",
+    "embrtrees:heartwood-wood",
+    "embrtrees:stripped-heartwood-log",
+    "embrtrees:stripped-heartwood-wood"
+  ]
+}

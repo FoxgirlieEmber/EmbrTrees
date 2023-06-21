@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "embrtrees:mahogany-log",
+    "embrtrees:mahogany-wood",
+    "embrtrees:stripped-mahogany-log",
+    "embrtrees:stripped-mahogany-wood"
+  ]
+}

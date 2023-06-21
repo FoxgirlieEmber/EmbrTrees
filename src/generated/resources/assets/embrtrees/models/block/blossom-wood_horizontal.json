@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column_horizontal",
+  "textures": {
+    "end": "embrtrees:block/blossom-log",
+    "side": "embrtrees:block/blossom-log"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "embrtrees:quartzwood-log",
+    "embrtrees:quartzwood-wood",
+    "embrtrees:stripped-quartzwood-log",
+    "embrtrees:stripped-quartzwood-wood"
+  ]
+}

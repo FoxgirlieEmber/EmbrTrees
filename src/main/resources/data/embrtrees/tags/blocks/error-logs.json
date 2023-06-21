@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "embrtrees:error-log",
+    "embrtrees:error-wood",
+    "embrtrees:stripped-error-log",
+    "embrtrees:stripped-error-wood"
+  ]
+}

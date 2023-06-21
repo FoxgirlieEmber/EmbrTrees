@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "O": {
+      "item": "minecraft:stick"
+    },
+    "X": {
+      "item": "embrtrees:cyan-planks"
+    }
+  },
+  "pattern": [
+    "OXO",
+    "OXO"
+  ],
+  "result": {
+    "item": "embrtrees:cyan-fence-gate"
+  },
+  "show_notification": true
+}

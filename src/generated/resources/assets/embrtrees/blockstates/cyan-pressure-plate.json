@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "embrtrees:block/cyan-pressure-plate"
+    },
+    "powered=true": {
+      "model": "embrtrees:block/cyan-pressure-plate_down"
+    }
+  }
+}

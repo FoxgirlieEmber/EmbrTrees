@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "O": {
+      "item": "minecraft:stick"
+    },
+    "X": {
+      "item": "embrtrees:oceanic-planks"
+    }
+  },
+  "pattern": [
+    "OXO",
+    "OXO"
+  ],
+  "result": {
+    "item": "embrtrees:oceanic-fence-gate"
+  },
+  "show_notification": true
+}

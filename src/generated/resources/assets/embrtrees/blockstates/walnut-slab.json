@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "embrtrees:block/walnut-slab"
+    },
+    "type=double": {
+      "model": "embrtrees:block/walnut-planks"
+    },
+    "type=top": {
+      "model": "embrtrees:block/walnut-slab_top"
+    }
+  }
+}

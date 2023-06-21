@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column_horizontal",
+  "textures": {
+    "end": "embrtrees:block/walnut-stripped-log-top",
+    "side": "embrtrees:block/walnut-stripped-log"
+  }
+}

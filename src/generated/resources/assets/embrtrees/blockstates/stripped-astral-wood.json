@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "embrtrees:block/stripped-astral-wood_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "embrtrees:block/stripped-astral-wood"
+    },
+    "axis=z": {
+      "model": "embrtrees:block/stripped-astral-wood_horizontal",
+      "x": 90
+    }
+  }
+}

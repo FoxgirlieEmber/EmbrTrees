@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/button",
+  "textures": {
+    "texture": "embrtrees:block/blossom-planks"
+  }
+}

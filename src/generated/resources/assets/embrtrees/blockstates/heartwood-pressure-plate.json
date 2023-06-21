@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "embrtrees:block/heartwood-pressure-plate"
+    },
+    "powered=true": {
+      "model": "embrtrees:block/heartwood-pressure-plate_down"
+    }
+  }
+}

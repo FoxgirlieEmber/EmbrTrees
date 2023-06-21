@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "O": {
+      "item": "minecraft:chain"
+    },
+    "X": {
+      "item": "embrtrees:stripped-willow-log"
+    }
+  },
+  "pattern": [
+    "O O",
+    "XXX",
+    "XXX"
+  ],
+  "result": {
+    "count": 6,
+    "item": "embrtrees:willow-hanging-sign"
+  },
+  "show_notification": true
+}

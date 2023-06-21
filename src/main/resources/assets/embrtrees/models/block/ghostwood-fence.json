@@ -1,0 +1,7 @@
+{
+  "render_type": "translucent",
+  "parent": "minecraft:block/fence_inventory",
+  "textures": {
+    "texture": "embrtrees:block/ghostwood-planks"
+  }
+}

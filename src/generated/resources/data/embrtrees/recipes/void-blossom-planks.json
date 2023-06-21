@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "tag": "embrtrees:void-blossom-logs"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "embrtrees:void-blossom-planks"
+  }
+}

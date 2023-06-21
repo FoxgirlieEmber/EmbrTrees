@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "embrtrees:block/blossom-slab"
+    },
+    "type=double": {
+      "model": "embrtrees:block/blossom-planks"
+    },
+    "type=top": {
+      "model": "embrtrees:block/blossom-slab_top"
+    }
+  }
+}
